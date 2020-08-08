@@ -1,5 +1,5 @@
-## Heart Disease UCI-Diagnosis & Prediction <br>
-# Data-set description<br>
+# Heart Disease UCI-Diagnosis & Prediction <br>
+## Data-set description<br>
 Dataset columns:<br>
 age: The person’s age in years<br>
 sex: The person’s sex (1 = male, 0 = female)<br>
