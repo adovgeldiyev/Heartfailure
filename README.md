@@ -1,5 +1,7 @@
 # Heart Disease UCI-Diagnosis & Prediction <br>
 ## Data-set description<br>
+Context
+This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to this date.<br>
 Dataset columns:<br>
 age: The person’s age in years<br>
 sex: The person’s sex (1 = male, 0 = female)<br>
